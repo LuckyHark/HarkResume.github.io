@@ -1,4 +1,4 @@
-title = "Eddie Webb"
+title = "Hark Webb"
 baseURL = "https://HarkResume.github.io/"
 theme = "hugo-resume"
 languageCode = "zh-CN"
@@ -17,7 +17,7 @@ phone = "1-555-555-1234"
 profileImage = "img/TechChat.png"
 showQr = true
 showContact = true
-sections = ["统计技能Statistical Skills","学术发表Publications","Public Service Courses","contributions","experience","education"]
+sections = ["Statistical Skills","Publications","Public Service Courses","contributions","experience","education"]
 
 
 [params.google]
